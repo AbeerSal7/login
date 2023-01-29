@@ -1,0 +1,37 @@
+body{
+    background-image: url('images/photo_5951712671319570677_y.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.login{
+    background-color: rgb(114, 153, 125);
+    position: absolute;
+    left:35%;
+    top: 30%;
+    width: 30%;
+    text-align: center;
+    /*color: azure; */
+    height: 50%;
+}
+
+
+button{
+    width:45%;
+    background-color: rgb(71, 177, 71);
+}
+
+button,h2{
+    color: azure;
+
+}
+.image img{
+    position: relative;
+    left: 45%;
+    top:120px;
+}
+input, button{
+    border-radius: 3px;
+    border-color: aliceblue;
+}
+
